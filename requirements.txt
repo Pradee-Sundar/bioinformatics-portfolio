@@ -1,0 +1,30 @@
+# -------------------------------
+# R DEPENDENCIES for GeoMX Data Analysis
+# -------------------------------
+# Install in R using: install.packages("<package>") or BiocManager::install("<package>")
+# -------------------------------
+# Core R packages
+tidyverse
+ggplot2
+reshape2
+dplyr
+tidyr
+readr
+
+# Bioconductor packages
+BiocManager
+NanoStringGeoMxTools
+limma
+edgeR
+org.Hs.eg.db
+
+# Visualization and color palettes
+ComplexHeatmap
+RColorBrewer
+viridis
+ggsci
+cowplot
+
+# Statistical modeling
+lme4
+lmerTest
