@@ -41,8 +41,11 @@ jupyter notebook
 bioinformatics-portfolio/
 │
 ├── notebooks/
-│   └── GeoMX_data_analysis.ipynb       # Main notebook (to be replaced with your Colab export)
-│
+│   └── GeoMX_data_analysis.ipynb  
+├── data/
+│   └── annotation/
+│   └── dkcs/
+│   └── pkcs/
 ├── README.md                           # Overview and instructions
 ├── requirements.txt                     # R dependencies for GeoMX workflow
 └── LICENSE                              # MIT License
